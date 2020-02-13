@@ -1,2 +1,1 @@
-# rsschool-cv
-first task
+https://NastyaBabayeva.github.io/rsschool-cv/cv
