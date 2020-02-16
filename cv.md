@@ -33,7 +33,6 @@ I studied as a programmer. Now I have a desire to learn something new in this ar
 [GITHUB](https://github.com/NastyaBabayeva)
 
 
-####
 
 
 
