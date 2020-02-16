@@ -30,7 +30,7 @@ I studied as a programmer. Now I have a desire to learn something new in this ar
 
 ### CODE EXAMPLE
 
-https://github.com/NastyaBabayeva
+[GITHUB](https://github.com/NastyaBabayeva)
 
 
 ####
