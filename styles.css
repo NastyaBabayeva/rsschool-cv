@@ -1,0 +1,64 @@
+.summary{
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.block {
+  max-width: 1024px;
+  height: 1200px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px #999999;
+  margin: 0 auto;
+  display: table-cell;
+}
+ 
+ .first_block {
+  background-color: grey;
+  width: 300px;
+}
+
+.second_block {
+  background-color: lightgrey;
+  width: 800px;
+}
+
+.image {
+  width: 150px;
+  margin: 70px 65px;
+  border-radius: 70px;
+}
+
+.email {
+  vertical-align: middle;
+  width: 30px;
+  margin: 10px;
+}
+
+.phone {
+  vertical-align: middle;
+  width: 30px;
+  margin: 10px;
+}
+
+.second_block h1 {
+  font: small-caps bold 2rem sans-serif;
+  text-align: center;
+  margin-bottom: 200px;
+}
+
+.second_block h2 {
+  margin: 30px;
+  margin-top: 50px;
+}
+
+.second_block h2 p {
+  margin: 20px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.second_block a {
+  margin: 50px;
+}
